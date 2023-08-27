@@ -37,7 +37,6 @@ function onFetchError(error) {
         position: 'center-center',
         borderRadius: '10px',
         timeout: 2000,
-        
     });
 };
 
